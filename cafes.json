@@ -82,6 +82,20 @@
           "timeRange": "12:00 - 21:00"
         }
       ]
+    },
+    {
+      "name": "Мечтатели",
+      "places": [
+        {
+          "address": "наб. Фонтанки, 11",
+          "metro": "м. Гостинный двор",
+          "location": {
+            "latitude": 59.938449,
+            "longitude": 30.360064
+          },
+          "photo": "http://notbadcoffee.com/images/photos/the-dreamers.e32d8529.jpg"
+        }
+      ],
     }
   ]
 }
