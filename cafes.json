@@ -26,11 +26,11 @@
       ],
       "timetable": [
         {
-          "day": "weekdays",
+          "day": "WEEKDAYS",
           "time": "9:00 - 22:00"
         },
         {
-          "day": "weekend",
+          "day": "WEEKEND",
           "time": "11:00-22:00"
         }
       ]
@@ -74,11 +74,11 @@
       ],
       "timetable": [
         {
-          "day": "weekdays",
+          "day": "WEEKDAYS",
           "time": "11:00 - 21:00"
         },
         {
-          "day": "weekend",
+          "day": "WEEKEND",
           "time": "12:00 - 21:00"
         }
       ]
