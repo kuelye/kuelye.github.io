@@ -26,12 +26,12 @@
       ],
       "timetable": [
         {
-          "day": "WEEKDAYS",
-          "time": "9:00 - 22:00"
+          "dayRange": "WEEKDAYS",
+          "timeRange": "9:00 - 22:00"
         },
         {
-          "day": "WEEKEND",
-          "time": "11:00-22:00"
+          "dayRange": "WEEKEND",
+          "timeRange": "11:00 - 22:00"
         }
       ]
     },
@@ -50,12 +50,12 @@
       ],
       "timetable": [
         {
-          "day": "WEEKDAYS",
-          "time": "8:00 - 23:00"
+          "dayRange": "WEEKDAYS",
+          "timeRange": "8:00 - 23:00"
         },
         {
-          "day": "WEEKEND",
-          "time": "10:00 - 23:00"
+          "dayRange": "WEEKEND",
+          "timeRange": "10:00 - 23:00"
         }
       ]
     },
@@ -74,12 +74,12 @@
       ],
       "timetable": [
         {
-          "day": "WEEKDAYS",
-          "time": "11:00 - 21:00"
+          "dayRange": "WEEKDAYS",
+          "timeRange": "11:00 - 21:00"
         },
         {
-          "day": "WEEKEND",
-          "time": "12:00 - 21:00"
+          "dayRange": "WEEKEND",
+          "timeRange": "12:00 - 21:00"
         }
       ]
     }
