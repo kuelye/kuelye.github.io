@@ -7,13 +7,13 @@
       "name": "DoubleB",
       "places": [
         {
-          "photo": "http://notbadcoffee.com/images/photos/doublebspb.8eb21607.jpg",
           "address": "Кронверкский пр., 65",
           "metro": "м. Горьковская",
           "location": {
             "latitude": 59.95359,
             "longitude": 30.306154
-          }
+          },
+          "photo": "http://notbadcoffee.com/images/photos/doublebspb.8eb21607.jpg"
         },
         {
           "address": "ул. Миллионная, 18",
@@ -27,7 +27,7 @@
       "timetable": [
         {
           "day": "weekdays",
-          "time": "9:00-22:00"
+          "time": "9:00 - 22:00"
         },
         {
           "day": "weekend",
@@ -39,23 +39,23 @@
       "name": "Coffee Bar Bonch",
       "places": [
         {
-          "photo": "http://notbadcoffee.com/images/photos/coffee-bar-bonch.2f6218b1.jpg",
           "address": "ул. Большая Морская, 16",
           "metro": "м. Адмиралтейская",
           "location": {
             "latitude": 59.935372,
             "longitude": 30.316960
-          }
+          },
+          "photo": "http://notbadcoffee.com/images/photos/coffee-bar-bonch.2f6218b1.jpg"
         }
       ],
       "timetable": [
         {
-          "day": "weekdays",
-          "time": "8:00-23:00"
+          "day": "WEEKDAYS",
+          "time": "8:00 - 23:00"
         },
         {
-          "day": "weekend",
-          "time": "10:00-23:00"
+          "day": "WEEKEND",
+          "time": "10:00 - 23:00"
         }
       ]
     },
@@ -63,23 +63,23 @@
       "name": "Coffee_miru",
       "places": [
         {
-          "photo": "http://notbadcoffee.com/images/photos/coffee_miru.8a03a2d7.jpg",
           "address": "ул. Восстания, 24",
           "metro": "м. Площадь Восстания",
           "location": {
             "latitude": 59.938449,
             "longitude": 30.360064
-          }
+          },
+          "photo": "http://notbadcoffee.com/images/photos/coffee_miru.8a03a2d7.jpg"
         }
       ],
       "timetable": [
         {
           "day": "weekdays",
-          "time": "11:00-21:00"
+          "time": "11:00 - 21:00"
         },
         {
           "day": "weekend",
-          "time": "12:00-21:00"
+          "time": "12:00 - 21:00"
         }
       ]
     }
