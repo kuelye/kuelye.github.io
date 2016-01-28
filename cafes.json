@@ -7,6 +7,7 @@
       "name": "DoubleB",
       "places": [
         {
+		  "id": 0,
           "address": "Кронверкский пр., 65",
           "metro": "м. Горьковская",
           "location": {
@@ -16,6 +17,7 @@
           "photo": "http://notbadcoffee.com/images/photos/doublebspb.8eb21607.jpg"
         },
         {
+		  "id": 1,
           "address": "ул. Миллионная, 18",
           "metro": "м. Адмиралтейская",
           "location": {
@@ -53,6 +55,7 @@
       "name": "Coffee Bar Bonch",
       "places": [
         {
+		  "id": 2,
           "address": "ул. Большая Морская, 16",
           "metro": "м. Адмиралтейская",
           "location": {
@@ -91,6 +94,7 @@
       "name": "Coffee_miru",
       "places": [
         {
+		  "id": 3,
           "address": "ул. Восстания, 24",
           "metro": "м. Площадь Восстания",
           "location": {
@@ -129,6 +133,7 @@
       "name": "Мечтатели",
       "places": [
         {
+		  "id": 4,
           "address": "наб. Фонтанки, 11",
           "metro": "м. Гостинный двор",
           "location": {
