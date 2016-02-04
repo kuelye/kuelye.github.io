@@ -7,47 +7,72 @@
       "name": "DoubleB",
       "places": [
         {
-		  "id": 0,
+          "id": 0,
           "address": "Кронверкский пр., 65",
           "metro": "м. Горьковская",
           "location": {
-            "latitude": 59.95359,
-            "longitude": 30.306154
+            "latitude": 59.95368225780042,
+            "longitude": 30.30623849999997
           },
-          "photo": "http://notbadcoffee.com/images/photos/doublebspb.8eb21607.jpg"
+          "photo": "http://notbadcoffee.com/images/photos/doublebspb.524ae6c2.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "9:00 - 22:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "11:00 - 22:00"
+            }
+          ]
         },
         {
-		  "id": 1,
+          "id": 1,
           "address": "ул. Миллионная, 18",
           "metro": "м. Адмиралтейская",
           "location": {
-            "latitude": 59.942762,
-            "longitude": 30.322492
-          }
-        }
-      ],
-      "timetable": [
-        {
-          "dayRange": "WEEKDAYS",
-          "timeRange": "9:00 - 22:00"
+            "latitude": 59.94282225781323,
+            "longitude": 30.322569499999915
+          },
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "9:00 - 22:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "11:00 - 22:00"
+            }
+          ]
         },
         {
-          "dayRange": "WEEKEND",
-          "timeRange": "11:00 - 22:00"
+          "id": 2,
+          "address": "наб. Мойки, 73",
+          "metro": "м. Адмиралтейская",
+          "location": {
+            "latitude": 59.93313575790057,
+            "longitude": 30.314161499999976
+          },
+          "timetable": [
+            {
+              "dayRange": "EVERYDAY",
+              "timeRange": "10:00 - 22:00"
+            }
+          ]
         }
       ],
       "menu": [
         {
           "item": "Эспрессо (двойной)",
-          "cost": "150"
+          "cost": "150 ₽"
         },
         {
           "item": "Капучино (стандартный)",
-          "cost": "200"
+          "cost": "200 ₽"
         },
         {
           "item": "Воронка V60",
-          "cost": "150"
+          "cost": "150 ₽"
         }
       ]
     },
@@ -55,38 +80,38 @@
       "name": "Coffee Bar Bonch",
       "places": [
         {
-		  "id": 2,
+          "id": 3,
           "address": "ул. Большая Морская, 16",
           "metro": "м. Адмиралтейская",
           "location": {
-            "latitude": 59.935372,
-            "longitude": 30.316960
+            "latitude": 59.93533075792326,
+            "longitude": 30.317044499999902
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee-bar-bonch.2f6218b1.jpg"
-        }
-      ],
-      "timetable": [
-        {
-          "dayRange": "WEEKDAYS",
-          "timeRange": "8:00 - 23:00"
-        },
-        {
-          "dayRange": "WEEKEND",
-          "timeRange": "10:00 - 23:00"
+          "photo": "http://notbadcoffee.com/images/photos/coffee-bar-bonch.2f6218b1.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "8:00 - 23:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "10:00 - 23:00"
+            }
+          ]
         }
       ],
       "menu": [
         {
           "item": "Эспрессо (двойной)",
-          "cost": "150"
+          "cost": "150 ₽"
         },
         {
           "item": "Капучино (стандартный)",
-          "cost": "170"
+          "cost": "170 ₽"
         },
         {
           "item": "Воронка V60",
-          "cost": "150"
+          "cost": "150 ₽"
         }
       ]
     },
@@ -94,53 +119,208 @@
       "name": "Coffee_miru",
       "places": [
         {
-		  "id": 3,
+          "id": 4,
           "address": "ул. Восстания, 24",
           "metro": "м. Площадь Восстания",
           "location": {
-            "latitude": 59.938449,
-            "longitude": 30.360064
+            "latitude": 59.93840975783011,
+            "longitude": 30.360038499999956
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee_miru.8a03a2d7.jpg"
-        }
-      ],
-      "timetable": [
-        {
-          "dayRange": "WEEKDAYS",
-          "timeRange": "11:00 - 21:00"
-        },
-        {
-          "dayRange": "WEEKEND",
-          "timeRange": "12:00 - 21:00"
+          "photo": "http://notbadcoffee.com/images/photos/coffee_miru.8a03a2d7.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "11:00 - 21:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "12:00 - 21:00"
+            }
+          ]
         }
       ],
       "menu": [
         {
           "item": "Эспрессо (двойной)",
-          "cost": "100"
+          "cost": "100 ₽"
         },
         {
           "item": "Капучино (стандартный)",
-          "cost": "120"
+          "cost": "120 ₽"
         },
         {
           "item": "Воронка V60",
-          "cost": "130"
+          "cost": "130 ₽"
         }
       ]
     },
     {
-      "name": "Мечтатели",
+      "name": "ЭНДИ КОФЕ",
       "places": [
         {
-		  "id": 4,
-          "address": "наб. Фонтанки, 11",
+          "id": 5,
+          "address": "Большой проспект П.С., 106",
+          "metro": "м. Петроградская",
+          "location": {
+            "latitude": 59.967565257693934,
+            "longitude": 30.31330750000001
+          },
+          "photo": "http://notbadcoffee.com/images/photos/andy-coffee.beab23de.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "9:00 - 22:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "10:00 - 22:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "75 ₽"
+        },
+        {
+          "item": "Капучино (стандартный)",
+          "cost": "150 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "150 ₽"
+        }
+      ]
+    },
+    {
+      "name": "Coffee 3",
+      "places": [
+        {
+          "id": 6,
+          "address": "Аптекарский пр., 4 ",
+          "metro": "м. Петроградская",
+          "location": {
+            "latitude": 59.9695467577769,
+            "longitude": 30.318248500000006
+          },
+          "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
+          "timetable": [
+            {
+              "dayRange": "EVERYDAY",
+              "timeRange": "9:00 - 23:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "75 ₽"
+        },
+        {
+          "item": "Капучино (стандартный)",
+          "cost": "150 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "150 ₽"
+        }
+      ]
+    },
+    {
+      "name": "Coffee 3",
+      "places": [
+        {
+          "id": 7,
+          "address": "Аптекарский пр., 4",
+          "metro": "м. Петроградская",
+          "location": {
+            "latitude": 59.9695467577769,
+            "longitude": 30.318248500000006
+          },
+          "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
+          "timetable": [
+            {
+              "dayRange": "EVERYDAY",
+              "timeRange": "9:00 - 23:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "80 ₽"
+        },
+        {
+          "item": "Капучино (двойной)",
+          "cost": "130 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "120 ₽"
+        }
+      ]
+    },
+    {
+      "name": "Больше кофе",
+      "places": [
+        {
+          "id": 8,
+          "name": "Больше кофе!",
+          "address": "Грот Александровского парка",
+          "metro": "м. Горьковская",
+          "location": {
+            "latitude": 59.95452629617934,
+            "longitude": 30.32049568072714
+          },
+          "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "10:00 - 22:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "11:00 - 23:00"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Кофе на кухне",
+          "address": "наб. Фонтанки, 17",
           "metro": "м. Гостинный двор",
           "location": {
-            "latitude": 59.936748,
-            "longitude": 30.342723
+            "latitude": 59.93581325786573,
+            "longitude": 30.34310500000001
           },
-          "photo": "http://notbadcoffee.com/images/photos/the-dreamers.e32d8529.jpg"
+          "photo": "http://notbadcoffee.com/images/photos/morecoffee.44236840.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "10:00 - 22:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "11:00 - 23:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "43 ₽"
+        },
+        {
+          "item": "Капучино (стандартный)",
+          "cost": "127 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "147 ₽"
         }
       ]
     }
