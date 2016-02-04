@@ -197,41 +197,6 @@
       "name": "Coffee 3",
       "places": [
         {
-          "id": 6,
-          "address": "Аптекарский пр., 4 ",
-          "metro": "м. Петроградская",
-          "location": {
-            "latitude": 59.9695467577769,
-            "longitude": 30.318248500000006
-          },
-          "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
-          "timetable": [
-            {
-              "dayRange": "EVERYDAY",
-              "timeRange": "9:00 - 23:00"
-            }
-          ]
-        }
-      ],
-      "menu": [
-        {
-          "item": "Эспрессо (двойной)",
-          "cost": "75 ₽"
-        },
-        {
-          "item": "Капучино (стандартный)",
-          "cost": "150 ₽"
-        },
-        {
-          "item": "Воронка V60",
-          "cost": "150 ₽"
-        }
-      ]
-    },
-    {
-      "name": "Coffee 3",
-      "places": [
-        {
           "id": 7,
           "address": "Аптекарский пр., 4",
           "metro": "м. Петроградская",
@@ -275,7 +240,6 @@
             "latitude": 59.95452629617934,
             "longitude": 30.32049568072714
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
