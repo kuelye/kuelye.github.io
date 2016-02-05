@@ -117,6 +117,10 @@
           "item": "Воронка V60",
           "cost": "150 ₽"
         }
+      ],
+      "links": [
+        "https://www.facebook.com/bonchcoffebar",
+        "https://instagram.com/bonch_cafe"
       ]
     },
     {
@@ -156,6 +160,10 @@
           "item": "Воронка V60",
           "cost": "130 ₽"
         }
+      ],
+      "links": [
+        "https://vk.com/coffee_miru",
+        "https://instagram.com/coffee_miru"
       ]
     },
     {
@@ -195,6 +203,10 @@
           "item": "Воронка V60",
           "cost": "150 ₽"
         }
+      ],
+      "links": [
+        "https://vk.com/andycoffee",
+        "https://instagram.com/andycoffee_spb"
       ]
     },
     {
@@ -294,6 +306,9 @@
           "item": "Воронка V60",
           "cost": "147 ₽"
         }
+      ],
+      "links": [
+        "https://vk.com/morecoffee"
       ]
     }
   ]
