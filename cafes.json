@@ -74,6 +74,10 @@
           "item": "Воронка V60",
           "cost": "150 ₽"
         }
+      ],
+      "links": [
+        "https://vk.com/doublebspb",
+        "https://instagram.com/doublebspb/"
       ]
     },
     {
@@ -197,7 +201,7 @@
       "name": "Coffee 3",
       "places": [
         {
-          "id": 7,
+          "id": 6,
           "address": "Аптекарский пр., 4",
           "metro": "м. Петроградская",
           "location": {
@@ -226,13 +230,17 @@
           "item": "Воронка V60",
           "cost": "120 ₽"
         }
+      ],
+      "links": [
+        "https://vk.com/coffee3spb",
+        "https://instagram.com/coffee3spb"
       ]
     },
     {
       "name": "Больше кофе",
       "places": [
         {
-          "id": 8,
+          "id": 7,
           "name": "Больше кофе!",
           "address": "Грот Александровского парка",
           "metro": "м. Горьковская",
@@ -252,7 +260,7 @@
           ]
         },
         {
-          "id": 9,
+          "id": 8,
           "name": "Кофе на кухне",
           "address": "наб. Фонтанки, 17",
           "metro": "м. Гостинный двор",
