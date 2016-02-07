@@ -11,8 +11,8 @@
           "address": "Кронверкский пр., 65",
           "metro": "м. Горьковская",
           "location": {
-            "latitude": 59.95368225780042,
-            "longitude": 30.30623849999997
+            "latitude": 59.953799,
+            "longitude": 30.306057
           },
           "photo": "http://notbadcoffee.com/images/photos/doublebspb.524ae6c2.jpg",
           "timetable": [
@@ -23,40 +23,6 @@
             {
               "dayRange": "WEEKEND",
               "timeRange": "11:00 - 22:00"
-            }
-          ]
-        },
-        {
-          "id": 1,
-          "address": "ул. Миллионная, 18",
-          "metro": "м. Адмиралтейская",
-          "location": {
-            "latitude": 59.94282225781323,
-            "longitude": 30.322569499999915
-          },
-          "timetable": [
-            {
-              "dayRange": "WEEKDAYS",
-              "timeRange": "9:00 - 22:00"
-            },
-            {
-              "dayRange": "WEEKEND",
-              "timeRange": "11:00 - 22:00"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "address": "наб. Мойки, 73",
-          "metro": "м. Адмиралтейская",
-          "location": {
-            "latitude": 59.93313575790057,
-            "longitude": 30.314161499999976
-          },
-          "timetable": [
-            {
-              "dayRange": "EVERYDAY",
-              "timeRange": "10:00 - 22:00"
             }
           ]
         }
@@ -84,12 +50,12 @@
       "name": "Coffee Bar Bonch",
       "places": [
         {
-          "id": 3,
+          "id": 1,
           "address": "ул. Большая Морская, 16",
           "metro": "м. Адмиралтейская",
           "location": {
-            "latitude": 59.93533075792326,
-            "longitude": 30.317044499999902
+            "latitude": 59.935528,
+            "longitude": 30.316960
           },
           "photo": "http://notbadcoffee.com/images/photos/coffee-bar-bonch.2f6218b1.jpg",
           "timetable": [
@@ -127,12 +93,12 @@
       "name": "Coffee_miru",
       "places": [
         {
-          "id": 4,
+          "id": 2,
           "address": "ул. Восстания, 24",
           "metro": "м. Площадь Восстания",
           "location": {
-            "latitude": 59.93840975783011,
-            "longitude": 30.360038499999956
+            "latitude": 59.938573,
+            "longitude": 30.360075
           },
           "photo": "http://notbadcoffee.com/images/photos/coffee_miru.8a03a2d7.jpg",
           "timetable": [
@@ -170,12 +136,12 @@
       "name": "ЭНДИ КОФЕ",
       "places": [
         {
-          "id": 5,
+          "id": 3,
           "address": "Большой проспект П.С., 106",
           "metro": "м. Петроградская",
           "location": {
-            "latitude": 59.967565257693934,
-            "longitude": 30.31330750000001
+            "latitude": 59.967538,
+            "longitude": 30.313605
           },
           "photo": "http://notbadcoffee.com/images/photos/andy-coffee.beab23de.jpg",
           "timetable": [
@@ -213,12 +179,12 @@
       "name": "Coffee 3",
       "places": [
         {
-          "id": 6,
+          "id": 4,
           "address": "Аптекарский пр., 4",
           "metro": "м. Петроградская",
           "location": {
-            "latitude": 59.9695467577769,
-            "longitude": 30.318248500000006
+            "latitude": 59.969694,
+            "longitude": 30.318094
           },
           "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
           "timetable": [
@@ -252,33 +218,13 @@
       "name": "Больше кофе",
       "places": [
         {
-          "id": 7,
-          "name": "Больше кофе!",
-          "address": "Грот Александровского парка",
-          "metro": "м. Горьковская",
-          "location": {
-            "latitude": 59.95452629617934,
-            "longitude": 30.32049568072714
-          },
-          "timetable": [
-            {
-              "dayRange": "WEEKDAYS",
-              "timeRange": "10:00 - 22:00"
-            },
-            {
-              "dayRange": "WEEKEND",
-              "timeRange": "11:00 - 23:00"
-            }
-          ]
-        },
-        {
-          "id": 8,
+          "id": 5,
           "name": "Кофе на кухне",
           "address": "наб. Фонтанки, 17",
           "metro": "м. Гостинный двор",
           "location": {
-            "latitude": 59.93581325786573,
-            "longitude": 30.34310500000001
+            "latitude": 59.935967,
+            "longitude": 30.343063
           },
           "photo": "http://notbadcoffee.com/images/photos/morecoffee.44236840.jpg",
           "timetable": [
