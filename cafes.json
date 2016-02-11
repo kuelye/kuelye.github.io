@@ -4,10 +4,91 @@
   },
   "cafes": [
     {
-      "name": "DoubleB",
+      "name": "Owl Coffee в ПИФ-ПАФ!",
       "places": [
         {
           "id": 0,
+          "address": "наб. канала Грибоедова, 31",
+          "metro": "м. Невский проспект",
+          "location": {
+            "latitude": 59.932076,
+            "longitude": 30.323544
+          },
+          "photo": "http://notbadcoffee.com/images/photos/coffee-owls.6b74eaef.jpg",
+          "timetable": [
+            {
+              "dayRange": "EVERYDAY",
+              "timeRange": "10:00 - 21:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "100 ₽"
+        },
+        {
+          "item": "Капучино (стандартный)",
+          "cost": "150 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "150 ₽"
+        }
+      ],
+      "links": [
+        "https://instagram.com/owlcoffee_spb",
+        "https://www.facebook.com/CoffeeOwls"
+      ]
+    },
+    {
+      "name": "Правила кофе",
+      "places": [
+        {
+          "id": 1,
+          "address": "ул. Ломоносова, 2",
+          "metro": "м. Гостинный двор",
+          "location": {
+            "latitude": 59.932837,
+            "longitude": 30.326460
+          },
+          "photo": "http://notbadcoffee.com/images/photos/pravila_coffee.47a370a9.jpg",
+          "timetable": [
+            {
+              "dayRange": "WEEKDAYS",
+              "timeRange": "09:00 - 19:00"
+            },
+            {
+              "dayRange": "WEEKEND",
+              "timeRange": "10:00 - 19:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "90 ₽"
+        },
+        {
+          "item": "Капучино (стандартный)",
+          "cost": "120 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "140 ₽"
+        }
+      ],
+      "links": [
+        "https://vk.com/pravila_coffee"
+      ]
+    },
+    {
+      "name": "DoubleB",
+      "places": [
+        {
+          "id": 2,
           "address": "Кронверкский пр., 65",
           "metro": "м. Горьковская",
           "location": {
@@ -50,7 +131,7 @@
       "name": "Coffee Bar Bonch",
       "places": [
         {
-          "id": 1,
+          "id": 3,
           "address": "ул. Большая Морская, 16",
           "metro": "м. Адмиралтейская",
           "location": {
@@ -93,7 +174,7 @@
       "name": "Coffee_miru",
       "places": [
         {
-          "id": 2,
+          "id": 4,
           "address": "ул. Восстания, 24",
           "metro": "м. Площадь Восстания",
           "location": {
@@ -136,7 +217,7 @@
       "name": "ЭНДИ КОФЕ",
       "places": [
         {
-          "id": 3,
+          "id": 5,
           "address": "Большой проспект П.С., 106",
           "metro": "м. Петроградская",
           "location": {
@@ -179,12 +260,12 @@
       "name": "Coffee 3",
       "places": [
         {
-          "id": 4,
+          "id": 6,
           "address": "Аптекарский пр., 4",
           "metro": "м. Петроградская",
           "location": {
-            "latitude": 59.969694,
-            "longitude": 30.318094
+            "latitude": 59.969631,
+            "longitude": 30.318235
           },
           "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
           "timetable": [
@@ -218,7 +299,7 @@
       "name": "Больше кофе",
       "places": [
         {
-          "id": 5,
+          "id": 7,
           "name": "Кофе на кухне",
           "address": "наб. Фонтанки, 17",
           "metro": "м. Гостинный двор",
