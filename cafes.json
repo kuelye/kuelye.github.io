@@ -14,7 +14,7 @@
             "latitude": 59.932076,
             "longitude": 30.323544
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee-owls.6b74eaef.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/coffee-owls.9e4faa92.jpg",
           "timetable": [
             {
               "dayRange": "EVERYDAY",
@@ -53,15 +53,15 @@
             "latitude": 59.932837,
             "longitude": 30.326460
           },
-          "photo": "http://notbadcoffee.com/images/photos/pravila_coffee.47a370a9.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/pravila_coffee.a527e22d.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
-              "timeRange": "09:00 - 19:00"
+              "timeRange": "09:00 - 21:00"
             },
             {
               "dayRange": "WEEKEND",
-              "timeRange": "10:00 - 19:00"
+              "timeRange": "10:00 - 21:00"
             }
           ]
         }
@@ -69,7 +69,7 @@
       "menu": [
         {
           "item": "Эспрессо (двойной)",
-          "cost": "90 ₽"
+          "cost": "95 ₽"
         },
         {
           "item": "Капучино (стандартный)",
@@ -95,7 +95,7 @@
             "latitude": 59.953799,
             "longitude": 30.306057
           },
-          "photo": "http://notbadcoffee.com/images/photos/doublebspb.524ae6c2.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/doublebspb.23600c6f.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
@@ -138,15 +138,19 @@
             "latitude": 59.935528,
             "longitude": 30.316960
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee-bar-bonch.2f6218b1.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/coffee-bar-bonch.1a8cc755.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
-              "timeRange": "8:00 - 23:00"
+              "timeRange": "8:30 - 23:00"
             },
+			{
+			  "dayRange": "SATURDAY",
+			  "timeRange": "10:00 - 23:00"
+			},
             {
-              "dayRange": "WEEKEND",
-              "timeRange": "10:00 - 23:00"
+              "dayRange": "SUNDAY",
+              "timeRange": "10:00 - 21:00"
             }
           ]
         }
@@ -181,7 +185,7 @@
             "latitude": 59.938573,
             "longitude": 30.360075
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee_miru.8a03a2d7.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/coffee_miru.c829b32a.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
@@ -224,7 +228,7 @@
             "latitude": 59.967538,
             "longitude": 30.313605
           },
-          "photo": "http://notbadcoffee.com/images/photos/andy-coffee.beab23de.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/andy-coffee.baffc0a2.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
@@ -267,11 +271,11 @@
             "latitude": 59.969631,
             "longitude": 30.318235
           },
-          "photo": "http://notbadcoffee.com/images/photos/coffee3.0ff752dd.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/coffee3.881defc0.jpg",
           "timetable": [
             {
               "dayRange": "EVERYDAY",
-              "timeRange": "9:00 - 23:00"
+              "timeRange": "10:00 - 22:00"
             }
           ]
         }
@@ -307,7 +311,7 @@
             "latitude": 59.935967,
             "longitude": 30.343063
           },
-          "photo": "http://notbadcoffee.com/images/photos/morecoffee.44236840.jpg",
+          "photo": "https://notbadcoffee.com/images/photos/morecoffee.0e32dbbf.jpg",
           "timetable": [
             {
               "dayRange": "WEEKDAYS",
@@ -336,6 +340,46 @@
       ],
       "links": [
         "https://vk.com/morecoffee"
+      ]
+    },
+    {
+      "name": "ТЧК",
+      "places": [
+        {
+          "id": 8,
+          "address": "Каменноостровский пр. 18/11",
+          "metro": "м. Горьковская",
+          "location": {
+            "latitude": 59.959531,
+            "longitude": 30.317166
+          },
+          "photo": "https://notbadcoffee.com/images/photos/tchk.8c1ddef0.jpg",
+          "timetable": [
+            {
+              "dayRange": "EVERYDAY",я
+              "timeRange": "10:00 - 22:00"
+            }
+          ]
+        }
+      ],
+      "menu": [
+        {
+          "item": "Эспрессо (двойной)",
+          "cost": "100 ₽"
+        },
+        {
+          "item": "Капучино (стандартный)",
+          "cost": "140 ₽"
+        },
+        {
+          "item": "Воронка V60",
+          "cost": "150 ₽"
+        }
+      ],
+      "links": [
+        "https://vk.com/coffee_tchk_spb",
+		"https://www.instagram.com/coffee.tchk.spb/",
+		"https://www.facebook.com/coffee.tchk.spb/"
       ]
     }
   ]
